@@ -19,8 +19,16 @@ To use port-pulse, you'll need to have Rust installed on your system. If you don
 Once you have Rust installed, you can install port-pulse using Cargo, Rust's package manager, with the following command:
 
 ```bash
-cargo install port-pulse
+cargo add port-pulse
 ```
+OR
+
+Add the following line to your Cargo.toml:
+
+```bash
+port-pulse = "0.2.0"
+```
+
 ## Usage
 
 -j to select how many threads you want
