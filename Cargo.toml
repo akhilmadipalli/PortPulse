@@ -1,0 +1,9 @@
+[package]
+name = "PortPulse"
+version = "0.1.0"
+authors = ["akhil madipalli <akhimadi@gmail.com>"]
+edition = "2021"
+description = "A TCP port scanner CLI"
+readme = README.md
+homepage = 
+[dependencies]
