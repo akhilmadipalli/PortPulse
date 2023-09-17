@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ip_scanner"
+name = "PortPulse"
 version = "0.1.0"
