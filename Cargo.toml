@@ -5,5 +5,8 @@ authors = ["akhil madipalli <akhimadi@gmail.com>"]
 edition = "2021"
 description = "A TCP port scanner CLI"
 readme = README.md
-homepage = 
+homepage = "https://github.com/akhilmadipalli/PortPulse"
+repository = "https://github.com/akhilmadipalli/PortPulse"
+keywords = ["cli", "port", "port scanner", "ip", "scanner"]
+categories = ["command-line-utilities"]
 [dependencies]
