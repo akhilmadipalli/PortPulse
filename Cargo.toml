@@ -7,6 +7,6 @@ description = "A TCP port scanner CLI"
 readme = "README.md"
 homepage = "https://github.com/akhilmadipalli/PortPulse"
 repository = "https://github.com/akhilmadipalli/PortPulse"
-keywords = ["cli", "port", "port scanner", "ip", "scanner"]
+keywords = ["cli", "port", "ip", "scanner"]
 categories = ["command-line-utilities"]
 [dependencies]
