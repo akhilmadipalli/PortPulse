@@ -9,4 +9,5 @@ homepage = "https://github.com/akhilmadipalli/PortPulse"
 repository = "https://github.com/akhilmadipalli/PortPulse"
 keywords = ["cli", "port", "ip", "scanner"]
 categories = ["command-line-utilities"]
+license = "MIT"
 [dependencies]
